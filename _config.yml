@@ -24,13 +24,13 @@ repository               : "DamoSWL/damoswl.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Weili Shi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Univeristy of Virginia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "weili.shi@virginia.edu" 
 
   # Academic websites
   academia         : # URL
