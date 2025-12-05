@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-About Me
-======
 I am a fifth-year Ph.D. candidate in the School of Data Science at the University of Virginia, advised by [Prof. Sheng Li](https://sheng-li.org/). Before joining UVA, I completed my master’s studies at the University of Georgia and at the National University of Singapore. I received my bachelor’s degree from Northeastern University in China, and prior to pursuing graduate studies in the United States, I worked as a C/C++ engineer in Chengdu.
 
 My research focuses on large language models for reasoning and graph learning, graph representation learning, and trustworthy machine learning, with broader interests in AI for social good.
