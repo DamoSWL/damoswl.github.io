@@ -27,7 +27,7 @@ Conference
   Lehan Yang, Jincen Song, Tianlong Wang, Daiqing Qi, **Weili Shi**, Yuheng Liu, Sheng Li.
 
 - **ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models (under review)**  
-  Tianlong Wang, **Weili Shi**, Sheng L
+  Tianlong Wang, **Weili Shi**, Sheng Li.
 
   
 Journal
