@@ -41,5 +41,5 @@ Recent Publications
 
 Hobbies
 ========
-
+I enjoy swimming, tennis, table tennis, badminton, hiking, and other outdoor activities.
 
