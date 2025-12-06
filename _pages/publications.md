@@ -37,9 +37,27 @@ Conference
   *Australasian Joint Conference on Artificial Intelligence (AJCAI), 2023.*  
  **Weili Shi**\*, Zhongliang Zhou*, Benjamin H. Letcher, Nathaniel Hitt, Yoichiro Kanno, Ryo Futamura,Osamu Kishida, Kentaro Morita, Sheng Li. (* denotes equal contribution)
 
+- **Pairwise adversarial training for unsupervised classimbalanced domain adaptation**  
+  *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.*  
+  **Weili Shi**, Ronghang Zhu, Sheng Li.
+
+- **Improving Robustness of Vision Transformers via Data-Augmented Virtual Adversarial Training**  
+  *2022 IEEE International Conference on Big Data (IEEE Big Data), 2022*  
+  **Weili Shi**, Sheng Li.
+
+- **Pigmentation-based Visual Learning for Salvelinus fontinalis Individual Re-identification**  
+  *2022 IEEE International Conference on Big Data (IEEE Big Data), 2022*  
+  Zhou, Zhongliang, Nathaniel P. Hitt, Benjamin H. Letcher, **Weili Shi**, Sheng Li. 
+
   
 Journal
 ---------------
+- **Optimized Graph Structures for Calibrating Graph Neural Networks with Out-of-Distribution Nodes (under review)**  
+  **Weili Shi**, Xueying Yang, Xujiang Zhao, Haifeng Chen, Zhiqiang Tao, Sheng Li.
+
+- **A survey of deep graph learning under distribution shifts: from graph out-of-distribution generalization to adaptation (under review)**  
+   Kexin Zhang, Shuhan Liu, Song Wang, Weili Shi, Chen Chen, Pan Li, **Sheng Li**, Jundong Li, Kaize Ding.
+
 - **Dual-windowed Vision Transformer with Angular Self-Attention**  
   *Transactions on Machine Learning Research (TMLR), 2024.*  
   **Weili Shi**, Sheng Li.
@@ -52,6 +70,9 @@ Journal
   *IEEE Transactions on Big Data (IEEE TBD), 2024.*  
   **Weili Shi**, Sheng Li.
 
+- **Application of artificial intelligence to the monitoring of medication adherence for tuberculosis treatment in Africa: algorithm development and validation**  
+  *ournal of Medical Internet Research AI (JMIR AI), 2023*  
+  Juliet Sekandi, **Weili Shi**, Ronghang Zhu, Patrick Kaggwa, Ernest Mwebaze, Sheng Li.
 
 
 
