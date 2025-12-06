@@ -17,21 +17,29 @@ My research primarily focuses on
 
 
 News
-------
+=======
 
 
 Recent Publications
-------
-- Finding the Cracks: Improving LLMs Reasoning with Paraphrastic Probing and Consistency Verification (under review)
- 
-  **Weili Shi**, Dongliang Guo, Lehan Yang, Tianlong Wang, Hanzhang Yuan, Sheng Li
-- LLMs Are Too Smart to Be Average: Controlling LLM Proficiency via Guided Decoding (under review)
+======
+- **Finding the Cracks: Improving LLMs Reasoning with Paraphrastic Probing and Consistency Verification (under review)**  
+  **Weili Shi**, Dongliang Guo, Lehan Yang, Tianlong Wang, Hanzhang Yuan, Sheng Li.
 
+- **LLMs Are Too Smart to Be Average: Controlling LLM Proficiency via Guided Decoding (under review)**  
   Dongliang Guo, **Weili Shi**, Sheng Li.
 
+- **Revisiting Dynamic Graphs from the Perspective of Time Series (under review)**  
+  **Weili Shi**, Dongliang Guo, Sheng Li.
 
-Site-wide configuration
-------
+- **Leveraging Large Language Models for Dynamic Text-Attributed Graphs Learning (under review)**  
+  **Weili Shi**, Haoming Li, Sheng Li.
+  
+- **Dual-windowed Vision Transformer with Angular Self-Attention**  
+  *Transactions on Machine Learning Research (TMLR), 2024.*  
+  **Weili Shi**, Sheng Li.
 
 
-**Markdown generator**
+Hobbies
+========
+
+
