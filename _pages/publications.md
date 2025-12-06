@@ -26,7 +26,10 @@ Conference
 - **VRMDiff: TextGuided Video Referring Matting Generation of Diffusion (under review)**  
   Lehan Yang, Jincen Song, Tianlong Wang, Daiqing Qi, **Weili Shi**, Yuheng Liu, Sheng Li.
 
+- **ItinBench: Benchmarking Planning Across Multiple Cognitive Dimensions with Large Language Models (under review)**  
+  Tianlong Wang, **Weili Shi**, Sheng L
 
+  
 Journal
 ---------------
 - **Dual-windowed Vision Transformer with Angular Self-Attention**  
