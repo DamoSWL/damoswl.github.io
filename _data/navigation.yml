@@ -20,7 +20,9 @@ main:
     
   - title: "Experience"
     url: /myexperience/   
-
+    
+  - title: "Service"
+    url: /myservice/   
     
   # - title: "Talks"
   #   url: /talks/    
