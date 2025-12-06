@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Conference
-======
+-------------
 - **Finding the Cracks: Improving LLMs Reasoning with Paraphrastic Probing and Consistency Verification (under review)**  
   **Weili Shi**, Dongliang Guo, Lehan Yang, Tianlong Wang, Hanzhang Yuan, Sheng Li.
 
