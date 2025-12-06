@@ -22,7 +22,13 @@ Conference
 
 - **Leveraging Large Language Models for Dynamic Text-Attributed Graphs Learning (under review)**  
   **Weili Shi**, Haoming Li, Sheng Li.
-  
+
+- **VRMDiff: TextGuided Video Referring Matting Generation of Diffusion (under review)**  
+  Lehan Yang, Jincen Song, Tianlong Wang, Daiqing Qi, **Weili Shi**, Yuheng Liu, Sheng Li.
+
+
+Journal
+---------------
 - **Dual-windowed Vision Transformer with Angular Self-Attention**  
   *Transactions on Machine Learning Research (TMLR), 2024.*  
   **Weili Shi**, Sheng Li.
