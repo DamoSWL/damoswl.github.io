@@ -36,3 +36,16 @@ Journal
   *Transactions on Machine Learning Research (TMLR), 2024.*  
   **Weili Shi**, Sheng Li.
 
+- **Unsupervised Class-imbalanced Domain Adaptation with Pairwise Adversarial Training and Semantic Alignment**  
+  *IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT) 2024*  
+  **Weili Shi**, Ronghang Zhu, Sheng Li.
+
+- **Improving Robustness of Vision Transformers via Data-Augmented Virtual Adversarial Training**  
+  *IEEE Transactions on Big Data (IEEE TBD) 2024*  
+  **Weili Shi**, Sheng Li.
+
+
+
+
+  
+
