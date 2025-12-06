@@ -56,7 +56,7 @@ Journal
   **Weili Shi**, Xueying Yang, Xujiang Zhao, Haifeng Chen, Zhiqiang Tao, Sheng Li.
 
 - **A survey of deep graph learning under distribution shifts: from graph out-of-distribution generalization to adaptation (under review)**  
-   Kexin Zhang, Shuhan Liu, Song Wang, Weili Shi, Chen Chen, Pan Li, **Sheng Li**, Jundong Li, Kaize Ding.
+   Kexin Zhang, Shuhan Liu, Song Wang, **Weili Shi**, Chen Chen, Pan Li, Sheng Li, Jundong Li, Kaize Ding.
 
 - **Dual-windowed Vision Transformer with Angular Self-Attention**  
   *Transactions on Machine Learning Research (TMLR), 2024.*  
