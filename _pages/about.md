@@ -10,10 +10,10 @@ redirect_from:
 I am a fifth-year Ph.D. candidate in the School of Data Science at the University of Virginia, advised by [Prof. Sheng Li](https://sheng-li.org/). Before joining UVA, I completed my master’s studies at the University of Georgia and at the National University of Singapore. I received my bachelor’s degree from Northeastern University in China, and prior to pursuing graduate studies in the United States, I worked as a C/C++ engineer in Chengdu.
 
 My research primarily focuses on 
-- Large Language Models for Reasoning
-- Graph Representation Learning
-- Trustworthy Machine Learning
-- AI for good
+- *Large Language Models for Reasoning*
+- *Graph Representation Learning*
+- *Trustworthy Machine Learning*
+- *AI for good*
 
 
 News
