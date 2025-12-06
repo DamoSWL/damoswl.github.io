@@ -4,7 +4,7 @@ title: "Service"
 permalink: /myservice/
 author_profile: true
 redirect_from:
-- /educaton
+- /service
 ---
 
 Conference Reviewer
