@@ -9,10 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Conference
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Finding the Cracks: Improving LLMs Reasoning with Paraphrastic Probing and Consistency Verification (under review)**  
+  **Weili Shi**, Dongliang Guo, Lehan Yang, Tianlong Wang, Hanzhang Yuan, Sheng Li.
 
+- **LLMs Are Too Smart to Be Average: Controlling LLM Proficiency via Guided Decoding (under review)**  
+  Dongliang Guo, **Weili Shi**, Sheng Li.
+
+- **Revisiting Dynamic Graphs from the Perspective of Time Series (under review)**  
+  **Weili Shi**, Dongliang Guo, Sheng Li.
+
+- **Leveraging Large Language Models for Dynamic Text-Attributed Graphs Learning (under review)**  
+  **Weili Shi**, Haoming Li, Sheng Li.
+  
+- **Dual-windowed Vision Transformer with Angular Self-Attention**  
+  *Transactions on Machine Learning Research (TMLR), 2024.*  
+  **Weili Shi**, Sheng Li.
 
