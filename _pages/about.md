@@ -37,6 +37,10 @@ Recent Publications
   *Transactions on Machine Learning Research (TMLR), 2024.*  
   **Weili Shi**, Sheng Li.
 
+Awards
+========
+- Notable reviewer from The International Conference on Learning Representations (ICLR) 2025.
+- Review Certificate from IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024.
 
 Hobbies
 ========
