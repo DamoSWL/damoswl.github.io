@@ -15,6 +15,8 @@ My research primarily focuses on
 - *Trustworthy Machine Learning*
 - *AI for good*
 
+I am always open to collaborating on interesting and impactful projects. Feel free to reach out to me at weili.shi [at] virginia.edu.
+
 News
 =======
 
